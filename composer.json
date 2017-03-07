@@ -1,0 +1,14 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "fzaninotto/faker": "*",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-gii": "*",
+        "se/selenium-server-standalone": "*"
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
